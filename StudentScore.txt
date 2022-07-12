@@ -1,0 +1,7 @@
+John	99
+Caleb	79
+Timothy	82
+Ruth	85
+Hannah	78
+Peter	92
+Joshua	88
